@@ -13,6 +13,8 @@ A collection of various tools and resources I've used in previous CTFs and hacki
 2. [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
 3. [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form
 4. [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
+## Hardware
+1. [Logic2](https://www.saleae.com/downloads/) - Analyze digital and analog signals; decoding ability for many protocols
 ## Reversing
 1. [Binwalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images
 2. [Ghidra](https://ghidra-sre.org/) - Open Source suite of reverse engineering tools
