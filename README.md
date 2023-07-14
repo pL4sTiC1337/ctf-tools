@@ -21,8 +21,9 @@ A collection of various tools and resources I've used in previous CTFs and hacki
 3. [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used reversing software
 4. [radare2](https://github.com/radare/radare2) - A portable reversing framework
 ## Steganography
-1. [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs
-2. [StegOnline](https://stegonline.georgeom.net/upload) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits
+1. [diit](https://diit.sourceforge.net/) - Digital Invisible Ink Toolkit
+2. [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs
+3. [StegOnline](https://stegonline.georgeom.net/upload) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits
 ## Web
 1. [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security
 2. [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
