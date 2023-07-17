@@ -1,5 +1,8 @@
 # CTF Tools and Resources
 A collection of various tools and resources I've used in previous CTFs and hacking challenges.  This is still a work in progress being ported over from my scattered notes.
+## Attacks
+1. [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM attacks
+2. [Metasploit](https://www.metasploit.com/download) - Penetration testing software
 ## Crypto
 1. [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data
 2. [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attacks
