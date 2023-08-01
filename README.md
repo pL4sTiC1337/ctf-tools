@@ -29,3 +29,8 @@ A collection of various tools and resources I've used in previous CTFs and hacki
 2. [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 3. [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 4. [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
+---
+## CTF Resources
+1. [CTF Time](https://ctftime.org/) - Running list of current/upcoming CTFs
+2. [Hack the Box](https://app.hackthebox.eu/) - Great CTF platform (free and paid options)
+3. [TryHackMe](https://www.tryhackme.com/) - Another great CTF platform (free and paid options)
