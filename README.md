@@ -6,8 +6,9 @@ A collection of various tools and resources I've used in previous CTFs and hacki
 3. [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
 4. [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 ## Exploit Dev
-1. [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
-2. [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
+1. [Impacket](https://github.com/fortra/impacket/) - Python classes for working with network protocols
+2. [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
+3. [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
 ## Forensics
 1. [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever)
 2. [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
