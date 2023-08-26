@@ -34,4 +34,5 @@ A collection of various tools and resources I've used in previous CTFs and hacki
 ## CTF Resources
 1. [CTF Time](https://ctftime.org/) - Running list of current/upcoming CTFs
 2. [Hack the Box](https://app.hackthebox.eu/) - Great CTF platform (free and paid options)
-3. [TryHackMe](https://www.tryhackme.com/) - Another great CTF platform (free and paid options)
+3. [Hacking Lab](https://competition.hacking-lab.com/) - Periodic CTFs and seasonal events
+4. [TryHackMe](https://www.tryhackme.com/) - Another great CTF platform (free and paid options)
